@@ -67,4 +67,6 @@ python KGARevion-Thyroid.py --dataset thyroid
 * type: Indicates the question-answering type
 * weights_path: Indicates the weight path of KGARevision's backbone large language model
 
+- Of course, PrimeKG can also be used as the knowledge base. The experimental results catalog for single-round fine-tuning using the Llama 3.1 model includes key parameters such as a relational dimension of 32, a weight balancing coefficient of 16, a batch size of 256, a learning rate of 0.0003, and a review task proportion of 0.8. This model can be employed for testing.
+[https://drive.google.com/drive/folders/1UgZMaxKsHbPlYFQXjGRhfxk0mdlS0dBO?usp=sharing]
 ![KGARevion_Thyroid framework](https://github.com/JtingF101/ThyroidDiagnosis_QA_KGArevion/blob/main/dataset/README_pic/Framwork.png)
