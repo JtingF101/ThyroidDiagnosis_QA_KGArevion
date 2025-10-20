@@ -5,6 +5,7 @@ Ai-Assisted Q&A And Diagnosis Of Thyroid Cytopathology
 ##  Overview 
 An Intelligent Thyroid Pathology Diagnosis Framework Integrating Large Language Models and Dynamic Knowledge Graphs. Through multi-source data fusion and context-aware visual reasoning, this framework delivers precise, interpretable, and efficient diagnostic solutions, aiming to enhance clinical diagnostic confidence and promote healthcare equity.
 
+![Thyroid QA300](https://github.com/JtingF101/ThyroidDiagnosis_QA_KGArevion/blob/main/dataset/README_pic/ThyroidMQ-300.png)
 
 ##   Installation
 
@@ -23,7 +24,7 @@ pip install requirements.txt
 #The first deployment may encounter dependency version conflicts.
 ```
 
-## 💡 Running
+##  Running
 
 After cloning the repository and installing all dependencies. 
 - Ensure directory structure
