@@ -49,7 +49,7 @@ python Llama-original.py
 ```
 
 To run thyroidQA_KGARevion directly:
-- First, please download the finetuned checkpoints (files denoted by *finetuned model*, including *adapter_config.bin*, *adapter_model.bin*, *embeddings.pth*, *lm_to_kg.pth*) which is available at [谷歌链接], to 'thyroid-fintune' folder.
+- First, please download the finetuned checkpoints (files denoted by *finetuned model*, including *adapter_config.bin*, *adapter_model.bin*, *embeddings.pth*, *lm_to_kg.pth*) which is available at [https://drive.google.com/drive/folders/1U5oT37bMocRYgobDFc-peFqS3WqE6zZs?usp=sharing], to 'thyroid-fintune' folder.
 - Second, please run KGARevion-Thyroid.py by the following command:
    
 ```bash
