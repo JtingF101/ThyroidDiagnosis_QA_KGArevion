@@ -69,4 +69,38 @@ python KGARevion-Thyroid.py --dataset thyroid
 
 - Of course, PrimeKG can also be used as the knowledge base. The experimental results catalog for single-round fine-tuning using the Llama 3.1 model includes key parameters such as a relational dimension of 32, a weight balancing coefficient of 16, a batch size of 256, a learning rate of 0.0003, and a review task proportion of 0.8. This model can be employed for testing.
 [https://drive.google.com/drive/folders/1UgZMaxKsHbPlYFQXjGRhfxk0mdlS0dBO?usp=sharing]
+
+##   Project Framework Diagram
 ![KGARevion_Thyroid framework](https://github.com/JtingF101/ThyroidDiagnosis_QA_KGArevion/blob/main/dataset/README_pic/Framwork.png)
+
+This project is based on the completion of multiple projects. For more detailed framework specifics, can refer to
+```bash
+@article{su2025knowledge,
+  title={KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA},
+  author={Su, Xiaorui and Wang, Yibo and Gao, Shanghua and Liu, Xiaolong and Giunchiglia, Valentina and Clevert, Djork-Arn{\'e} and Zitnik, Marinka},
+  journal={International Conference on Learning Representations, ICLR},
+  year={2025}
+}
+@article{ram-etal-2023-context,
+    title = "In-Context Retrieval-Augmented Language Models",
+    author = "Ram, Ori  and
+      Levine, Yoav  and
+      Dalmedigos, Itay  and
+      Muhlgay, Dor  and
+      Shashua, Amnon  and
+      Leyton-Brown, Kevin  and
+      Shoham, Yoav",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "11",
+    year = "2023",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2023.tacl-1.75",
+    doi = "10.1162/tacl_a_00605",
+    pages = "1316--1331",
+}
+https://github.com/microsoft/BioGPT
+https://github.com/mims-harvard/KGARevion
+https://github.com/AI21Labs/in-context-ralm
+..........
+```
