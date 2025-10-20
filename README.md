@@ -66,4 +66,4 @@ python KGARevion-Thyroid.py --dataset thyroid
 * type: Indicates the question-answering type
 * weights_path: Indicates the weight path of KGARevision's backbone large language model
 
-![KGARevion framework](https://github.com/JtingF101/ThyroidDiagnosis_QA_KGArevion/tree/main/dataset/README_pic/Framwork.png)
+![KGARevion_Thyroid framework](https://github.com/JtingF101/ThyroidDiagnosis_QA_KGArevion/blob/main/dataset/README_pic/Framwork.png)
