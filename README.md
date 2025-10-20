@@ -36,7 +36,7 @@ ThyroidDiagnosis_QA_KGArevion/
 │
 ├── bioGPT.py             
 │
-└── Llama-original.py 
+├──Llama-original.py 
 │
 └── RAG-LLM.py 
 ```
